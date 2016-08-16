@@ -16,6 +16,7 @@ Following game parameters are editable in *game_settings.py* file:
 * pit width
 * number of colors in use
 * individual color values
+* control keys
 
 ## License
 
